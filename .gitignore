@@ -1,0 +1,9 @@
+# NetBeans generated directories
+/build/
+/dist/
+nbproject/private/
+
+# Logs and temporary files
+*.log
+.DS_Store
+Thumbs.db
